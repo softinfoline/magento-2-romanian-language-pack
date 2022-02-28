@@ -1,0 +1,21 @@
+{
+  "name": "softinfoline/magento-2-romanian-language-pack",
+  "description": "Romanian language package for Magento 2",
+  "type": "magento2-language",
+  "version": "1.0.0",
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "authors": [
+    {
+      "name": "Ashwini Singh",
+      "email": "ashwini@softinfoline.com"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
