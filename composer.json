@@ -3,7 +3,7 @@
   "description": "Romanian language package for Magento 2",
   "homepage": "https://www.softinfoline.com",
   "type": "magento2-language",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": [
     "OSL-3.0",
     "AFL-3.0"
