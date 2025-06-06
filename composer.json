@@ -1,5 +1,5 @@
 {
-  "name": "softinfoline/magento-2-romanian-language-pack",
+  "name": "thehuntestshadow/magento-2-romanian-language-pack",
   "description": "Romanian language package for Magento 2",
   "homepage": "https://www.softinfoline.com",
   "type": "magento2-language",
@@ -10,12 +10,12 @@
   ],
   "authors": [
     {
-      "name": "Ashwini Singh",
-      "email": "ashwini@softinfoline.com"
+      "name": "alex",
+      "email": "thehuntestshadow@gmail.com"
     }
   ],
     "require": {
-        "php": ">=7.4.0 <8.4.0"
+        "php": ">=7.4.0"
     },
   "autoload": {
     "files": [
